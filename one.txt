@@ -1,3 +1,4 @@
 creat gitskills one
 creat a new branch is quick AND simple
 no ff 
+fix bug 101
